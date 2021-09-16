@@ -14,7 +14,7 @@ Use *pip3* if you are using *python3*:
 
 On Windows, you may need to use the Python launcher (*py*):
 
-`py -m pip install`
+`py -m pip install pandas`
 
 ## Lab Notebooks:
 
