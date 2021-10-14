@@ -19,10 +19,12 @@ On Windows, you may need to use the Python launcher (*py*):
 
 ## Install data visualization utilities
 
-[Matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) are the two most popular modules for data visualization in Python. Install these packages using *pip* following the considerations mentioned above. 
+[Matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) are the two most popular modules for data visualization in Python. Install these packages using *pip:* 
 
 `pip install matplotlib`
 `pip install seaborn`
+
+Adapt the *pip* command to the installation of Python in your computer as mentioned earlier. 
 
 ## Install scikit-learn
 
