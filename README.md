@@ -1,6 +1,6 @@
 # Data Understanding
 
-## Review the Data Mining Project Template and install all required data mining utilities
+## Before You Start
 
 Before starting with the activities of this lab, follow the instructions [here](https://github.com/josecarlosgt/Data-Processing-and-Analytics) to review install all required data mining utilities and review the Data Mining Project Template.  
 
