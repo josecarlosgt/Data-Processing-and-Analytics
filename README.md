@@ -1,4 +1,11 @@
-# Data-Processing-and-Analytics
-Files for lab activities in the Data Processing and Analytics course.
+# Data Understanding
 
-Link in Binder to the [Data Science Project Template Notebook](https://mybinder.org/v2/gh/josecarlosgt/Data-Processing-and-Analytics/47ce0d3c439b7655c106d16dced041a7235c5c1e?filepath=Data%20science%20project-%20template.ipynb)
+## Review the Data Mining Project Template and install all required data mining utilities
+
+Before starting with the activities of this lab, follow the instructions [here](https://github.com/josecarlosgt/Data-Processing-and-Analytics) to review install all required data mining utilities and review the Data Mining Project Template.  
+
+## Lab Notebook:
+
+- [Predicting customer churn: Data understanding](Predicting_Customer_Churn.ipynb)
+- Download the notebook [here](https://github.com/josecarlosgt/Data-Processing-and-Analytics/archive/refs/heads/lab-activities-8-data-understanding.zip)
+- Access the notebook via binder [here]()
