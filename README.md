@@ -62,7 +62,7 @@ Measure the performance of your final model on the test set to estimate the gene
 
 ### Accessing the template 
 
-The following notebook contains a template for building data mining solutions in Python.
+TDhe following notebook contains a template for building a data mining project in Python:
 - [Data mining project template](Data_mining_project-template.ipynb)
 
-Click [here](https://github.com/josecarlosgt/Data-Processing-and-Analytics/archive/refs/heads/main.zip) to download the template included in this repository into your local computer.
+Click [here](https://github.com/josecarlosgt/Data-Processing-and-Analytics/archive/refs/heads/main.zip) to download this repository and access the template in your local computer.
