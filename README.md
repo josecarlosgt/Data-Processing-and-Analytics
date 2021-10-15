@@ -8,4 +8,4 @@ Before starting with the activities of this lab, follow the instructions [here](
 
 - [Predicting customer churn: Data understanding](Predicting_Customer_Churn.ipynb)
 - Click [here](https://github.com/josecarlosgt/Data-Processing-and-Analytics/archive/refs/heads/lab-activities-8-data-understanding.zip) to download this repository and access the notebook in your local computer.
-- Access the notebook via binder [here](https://mybinder.org/v2/gh/josecarlosgt/Data-Processing-and-Analytics/lab-activities-8-data-understanding)
+- Access the notebook via Binder [here](https://mybinder.org/v2/gh/josecarlosgt/Data-Processing-and-Analytics/lab-activities-8-data-understanding)
