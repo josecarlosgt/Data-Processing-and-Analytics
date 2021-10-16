@@ -1,4 +1,4 @@
-# Programming in Python (Part III)
+# Programming in Python (Part III - review)
 
-- [Tutorial: Python Basics (review)](Tutorial.ipynb)
-- [Lab Practice (review)](Lab_Practice.ipynb)
+- [Tutorial: Python Basics](Tutorial.ipynb)
+- [Lab Practice](Lab_Practice.ipynb)
