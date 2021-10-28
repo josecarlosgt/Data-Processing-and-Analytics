@@ -52,7 +52,7 @@ Explore the data by performing visualizations, check the ranges and distribution
 
 Perform data cleaning and transformation tasks as necessary.
 
-### 5. Data Modeling
+### 5. Data modeling
 
 Train different models and calibrate the parameters of the most promising ones to optimal values.
 
