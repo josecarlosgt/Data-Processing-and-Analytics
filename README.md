@@ -1,4 +1,4 @@
-# Data-Processing-and-Analytics
+# Parametric Modeling
 
 ## Lab Notebooks:
 
